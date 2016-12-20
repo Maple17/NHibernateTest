@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+<configSections>
+    <section name="hibernate-configuration"   type="NHibernate.Cfg.ConfigurationSectionHandler, NHibernate"/>
+</configSections>
+    <hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">  
+      <session-factory name="NHibernate.Test">  
+           <property name="connection.driver_class">NHibernate.Driver.SybaseAseClientDriver</property>  
+           <property name="connection.connection_string">  
+                Data Source=10.68.1.215;Port=2048;Database=biswork;User ID=maplee;Password=maplee666  
+           </property>  
+           <property name="dialect">NHibernate.Dialect.SybaseASE15Dialect</property>  
+           <property name="query.substitutions">true=1;false=0</property>
+          <property name="show_sql">true</property>
+
+          <property name="proxyfactory.factory_class">
+            NHibernate.ByteCode.LinFu.ProxyFactoryFactory, NHibernate.ByteCode.LinFu
+           </property>
+          <!--<property name="connection.isolation">ReadCommitted</property>
+          <property name="use_proxy_validator">true</property>-->
+          <mapping assembly="NHibernateTest"/>
+      </session-factory>  
+ </hibernate-configuration>  
+ </configuration>

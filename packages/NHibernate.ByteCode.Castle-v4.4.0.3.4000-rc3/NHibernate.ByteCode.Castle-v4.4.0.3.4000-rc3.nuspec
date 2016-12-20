@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>NHibernate.ByteCode.Castle-v4</id>
+    <version>4.0.3.4000-rc3</version>
+    <title>NHibernate ByteCode Castle Unofficial</title>
+    <authors>nicdex</authors>
+    <owners>nicdex</owners>
+    <licenseUrl>http://opensource.org/licenses/LGPL-2.1</licenseUrl>
+    <projectUrl>https://github.com/nicdex/NHibernate.ByteCode</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Castle NHibernate proxy factory, this is an unofficial version which means it is not supported by the NHibernate team.</description>
+    <summary />
+    <releaseNotes>Updated to latest Castle.Core 3.3 and NHibernate 4.0</releaseNotes>
+    <copyright>Copyright 2015 NHibernate.org and contributors</copyright>
+    <tags>Castle NHibernate ByteCode proxy</tags>
+    <dependencies>
+      <dependency id="NHibernate" version="[4.0, 5.0)" />
+      <dependency id="Iesi.Collections" version="[4.0, 5.0)" />
+      <dependency id="Castle.Core" version="[3.3, 4.0)" />
+    </dependencies>
+  </metadata>
+</package>
