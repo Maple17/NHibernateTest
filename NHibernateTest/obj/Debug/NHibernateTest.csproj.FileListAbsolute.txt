@@ -8,7 +8,6 @@ D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Iesi.Collections.dll
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NHibernate.dll
 D:\程式\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.exe
 D:\程式\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.pdb
-D:\程式\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.csprojResolveAssemblyReference.cache
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Iesi.Collections.xml
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NHibernate.xml
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Sybase.AdoNet2.AseClient.dll
@@ -21,3 +20,11 @@ D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NHibernate.ByteCode.LinFu.xml
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Castle.Core.dll
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NHibernate.ByteCode.Castle.dll
 D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Castle.Core.xml
+D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Mappings\acm_penalty_combine_main.hbm.xml
+D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NLog.config
+D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NLog.dll
+D:\程式\NHibernateTest\NHibernateTest\bin\Debug\NLog.xml
+D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Mappings\csswaterno_tmp.hbm.xml
+D:\程式\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.Form1.resources
+D:\程式\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.csprojResolveAssemblyReference.cache
+D:\程式\NHibernateTest\NHibernateTest\bin\Debug\Mappings\Animal.hbm.xml

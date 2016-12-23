@@ -7,7 +7,8 @@
       <session-factory name="NHibernate.Test">  
            <property name="connection.driver_class">NHibernate.Driver.SybaseAseClientDriver</property>  
            <property name="connection.connection_string">  
-                Data Source=10.68.1.215;Port=2048;Database=biswork;User ID=maplee;Password=maplee666  
+                <!--Data Source=10.68.1.215;Port=2048;Database=biswork;User ID=maplee;Password=maplee666-->
+               Data Source=10.68.1.215;Port=2048;Database=biswork;User ID=sharon;Password=Tt123456
            </property>  
            <property name="dialect">NHibernate.Dialect.SybaseASE15Dialect</property>  
            <property name="query.substitutions">true=1;false=0</property>

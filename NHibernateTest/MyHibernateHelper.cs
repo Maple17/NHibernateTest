@@ -24,7 +24,9 @@ namespace NHibernateTest
                     //或者給絕對路徑↓
                     //configuration.Configure(System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location)+@"\hibernate.cfg.xml");
                     configuration.AddFile("Persons.hbm.xml");
-                    
+                    configuration.AddFile("Mappings\\acm_penalty_combine_main.hbm.xml");
+                    configuration.AddFile("Mappings\\csswaterno_tmp.hbm.xml");
+                    configuration.AddFile("Mappings\\Animal.hbm.xml");
                     //configuration.AddAssembly(typeof(Persons).Assembly);
                     
                     _sessionFactory = configuration.BuildSessionFactory();

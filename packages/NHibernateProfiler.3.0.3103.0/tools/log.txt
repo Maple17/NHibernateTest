@@ -41,3 +41,7 @@ System.Reflection.TargetInvocationException: 引動過程的目標傳回例外狀況。 ---> S
 2016-12-19 14:19:35,212 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 01/20/2017 00:00:00
 2016-12-19 14:19:35,241 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
 2016-12-19 14:19:37,580 [7] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2016-12-20 11:02:17,844 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 3103
+2016-12-20 11:02:25,314 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 01/20/2017 00:00:00
+2016-12-20 11:02:25,607 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2016-12-20 11:02:25,656 [9] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...

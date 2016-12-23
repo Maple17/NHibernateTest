@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    assembly="NHibernateTest"
+                    namespace="NHibernateTest.Domain">
+    <!--assembly和namespace記得填專案名稱-->
+    <class name="Animal" table="dbo.Animal" lazy="false" >
+        <!--主鍵-->
+        <id name="AnimalID"    >
+            <!--<generator class="identity"  />-->
+            <generator class="native"  />
+        </id>
+        <property name="Kind"   />
+        
+        <many-to-one name="PersonID" class="Persons" column="PersonID"></many-to-one>
+
+
+    </class>
+
+</hibernate-mapping>

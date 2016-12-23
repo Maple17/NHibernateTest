@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    assembly="NHibernateTest"
+                    namespace="NHibernateTest.Domain">
+    <!--assembly和namespace記得填專案名稱-->
+    <class name="acm_penalty_combine_main" table="dbo.acm_penalty_combine_main" lazy="false" >
+        <!--主鍵-->
+        <id name="water_id"    >
+            <generator class="native"  />
+        </id>
+        <property name="cpy_date"   />
+        <property name="water_id"   />
+        <property name="combine_cpy_date"   />
+        <property name="receivable_dept_code"   />
+        <property name="actual_dept_code"   />
+        <property name="recv_date"   />
+        <property name="checkout_date"   />
+        <property name="checkout_user_no"   />
+        <property name="cancel_checkout_date"   />
+        <property name="cancel_checkout_user_no"   />
+        <property name="is_payed"   />
+        <property name="penalty_pay_source"   />
+        <property name="combine_mark"   />
+        <property name="idle_status"   />
+        <property name="idle_date"   />
+        <property name="upd_date"   />
+        <property name="upd_time"   />
+        <property name="upd_user_no"   />
+        <property name="calc_seq"   />
+        <property name="share_seq"   />
+        <property name="combine_calc_seq"   />
+        <property name="combine_share_seq"   />
+        <property name="penalty_amt"   />
+        <property name="sys_upd_times"   />
+
+    </class>
+
+</hibernate-mapping>

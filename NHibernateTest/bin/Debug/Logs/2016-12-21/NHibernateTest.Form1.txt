@@ -1,0 +1,82 @@
+2016-12-21 10:09:21.2872 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 10:09:24.2498 | TRACE | NHibernateTest.Form1 | Table Row Count: 
+
+2016-12-21 10:09:24.7528 | TRACE | NHibernateTest.Form1 | Table Slect 之後: 
+
+2016-12-21 10:10:46.2684 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 10:10:48.4546 | TRACE | NHibernateTest.Form1 | Table Row Count:13192 
+
+2016-12-21 10:10:48.8677 | TRACE | NHibernateTest.Form1 | Table Slect 之後: 
+
+2016-12-21 10:13:41.7900 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 10:13:43.1211 | TRACE | NHibernateTest.Form1 | Table Row Count:13192 
+
+2016-12-21 10:13:43.1211 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 10:13:43.1211 | TRACE | NHibernateTest.Form1 | Table Select 資料:NHibernateTest.Domain.acm_penalty_combine_main 
+
+2016-12-21 10:18:46.5017 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 10:18:47.5927 | TRACE | NHibernateTest.Form1 | Table Row Count:13192 
+
+2016-12-21 10:18:47.5927 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 10:18:47.5957 | TRACE | NHibernateTest.Form1 | Table Select 資料:20010212WA199405001116 
+
+2016-12-21 10:32:31.3004 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 10:32:32.4924 | TRACE | NHibernateTest.Form1 | Table Row Count:13192 
+
+2016-12-21 10:32:32.4924 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 10:32:32.4924 | TRACE | NHibernateTest.Form1 | Table Select 資料:NHibernateTest.Domain.acm_penalty_combine_mainWA199405001116 
+
+2016-12-21 10:48:19.2451 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 10:48:21.1875 | TRACE | NHibernateTest.Form1 | Table Row Count:13192 
+
+2016-12-21 10:48:21.1875 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 10:48:21.2585 | TRACE | NHibernateTest.Form1 | Table Select 資料:System.Byte[] 
+
+2016-12-21 10:50:42.6761 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 13:57:33.2730 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 13:57:37.6655 | TRACE | NHibernateTest.Form1 | Table Row Count:13192 
+
+2016-12-21 13:57:38.2175 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 13:57:39.1295 | TRACE | NHibernateTest.Form1 | Table Select 資料:System.Byte[] 
+
+2016-12-21 14:27:29.1970 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 14:27:31.3966 | TRACE | NHibernateTest.Form1 | Table Row Count:72135 
+
+2016-12-21 14:27:31.7242 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 14:27:32.2078 | TRACE | NHibernateTest.Form1 | Table Select 資料:201001 
+
+2016-12-21 15:10:33.1285 | TRACE | NHibernateTest.Form1 | Table Select 之前: 
+
+2016-12-21 15:10:34.6377 | TRACE | NHibernateTest.Form1 | Table Row Count:72135 
+
+2016-12-21 15:10:34.6377 | TRACE | NHibernateTest.Form1 | Table Select 之後: 
+
+2016-12-21 15:10:34.6377 | TRACE | NHibernateTest.Form1 | Table Select 資料:201001 
+
+2016-12-21 15:11:46.7199 | TRACE | NHibernateTest.Form1 | 新增資料開始 
+
+2016-12-21 15:12:50.8533 | TRACE | NHibernateTest.Form1 | 新增資料開始 
+
+2016-12-21 15:16:26.8863 | TRACE | NHibernateTest.Form1 | 修改資料開始 
+
+2016-12-21 15:18:19.1161 | TRACE | NHibernateTest.Form1 | 刪除資料開始 
+
+2016-12-21 15:18:33.5297 | TRACE | NHibernateTest.Form1 | 刪除資料結束 
+
+2016-12-21 15:19:24.6615 | TRACE | NHibernateTest.Form1 | 新增資料開始 
+

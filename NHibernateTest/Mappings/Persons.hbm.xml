@@ -6,9 +6,15 @@
     <class name="Persons" table="maplee.Persons" lazy="false" >
         <!--主鍵-->
         <id name="PersonID"    >
-            <generator class="identity"  />
+            <!--<generator class="identity"  />-->
+            <generator class="native"  />
         </id>
         <property name="PersonName"   />
+        
+    <!--<bag name="Animals" table="T_PersonID_Animal">
+      <key column="PersonID"/>
+      <many-to-many class="Animal" column="AnimalID"/>
+    </bag>-->
 
 
     </class>
